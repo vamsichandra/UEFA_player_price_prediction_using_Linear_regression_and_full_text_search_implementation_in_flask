@@ -1,14 +1,9 @@
+
 import numpy as np
 from flask import Flask, request, jsonify, render_template,send_file
 import pickle
 import pandas as pd
 import test
-#import requests
-
-import numpy as np
-from flask import Flask, request, jsonify, render_template
-import pickle
-import pandas as pd
 import matplotlib.pyplot as plt
 
 import seaborn as sns
